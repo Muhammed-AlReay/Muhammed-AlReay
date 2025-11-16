@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed-AlReay</h1>
-<h3 align="center">passionate about AI and Data Science, with hands-on experience in building machine learning models, analyzing data, and designing dashboards that support decision-making. I work on full machine learning pipelines — from training and evaluation to deployment. I also do data analysis using Python and SQL, with tools like Power BI and Tableau. I'm particularly interested in Natural Language Processing (NLP) and Computer Vision, and I build simple web apps using Streamlit and Flask. I’ve worked on real-world projects in healthcare, e-commerce, and education, and I’ve completed multiple internships and training programs. Always excited to learn something new and build meaningful solutions with data.</h3>
+<h3 align="center">Passionate about artificial intelligence and data science, I have practical experience in building machine learning models, analyzing data, and designing dashboards to support decision-making. I work on complete machine learning pathways—from training and evaluation to deployment—using Streamlit, Flask, and Django. I also perform data analytics using Python and SQL, with tools such as Power BI and Tableau. Currently, I am particularly interested in Natural Language Processing (NLP) and Computer Vision. I have worked on practical projects in healthcare, e-commerce, and education, and have completed numerous internships and training programs. I am always eager to learn new things and build effective data-driven solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed-alreay" alt="muhammed-alreay" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhammedmahmoud0428@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WU9N02cmmbq6PNTRnghGJ6stu-27A9WN/view?usp=sharing](https://drive.google.com/file/d/1WU9N02cmmbq6PNTRnghGJ6stu-27A9WN/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1WU9N02cmmbq6PNTRnghGJ6stu-27A9WN/view?usp=sharing](https://drive.google.com/file/d/1WU9N02cmmbq6PNTRnghGJ6stu-27A9WN/view?usp=sharing](https://drive.google.com/file/d/1DVCTfXow_W7QmEf2KzUsbMSuX3qKh0lX/view?usp=sharing))
 
 - ⚡ Fun fact **I believe the best debugging happens after midnight... with snacks. 🕛🍫💻**
 
